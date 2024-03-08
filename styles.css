@@ -1,0 +1,50 @@
+
+#header {
+    background-color: #0356fc;
+    color: #fff;
+    margin-bottom: 2rem;
+    padding: 10px 05px;
+    font-size: 90px;
+    font-weight: bold;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%; /* Full width */
+    transition: 0.2s; /* Add a transition effect (when scrolling - and font size is decreased) */
+
+}
+
+
+
+body {
+    background-color: #fff;
+}
+
+main {
+    margin-top: 8rem;
+    text-align: center;
+
+}
+
+
+
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+td {
+    border: 2px solid black;
+}
+
+footer {
+    background-color: #0356fc;
+    color: #fff;
+    margin-bottom: 2rem;
+    padding: 1rem 1rem;
+    font-size: 0.8rem;
+    text-align: center;
+}
